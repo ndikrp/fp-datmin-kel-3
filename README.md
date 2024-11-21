@@ -17,8 +17,9 @@ Penelitian ini bertujuan untuk melakukan analisis sentimen dan membangun model k
 #### List Folder Dataset
 
 ```
-  Dataset
-  Stopwords
+  myBca
+  unclean_myBca
+  stopwords
 ```
 
 | Name | Type     | Description                |

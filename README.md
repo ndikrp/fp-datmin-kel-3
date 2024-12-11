@@ -16,7 +16,7 @@ Penelitian ini bertujuan untuk melakukan analisis sentimen dan membangun model k
 
 #### List Folder Dataset
 
-```http
+```
   Dataset
   Stopwords
 ```
@@ -29,7 +29,7 @@ Penelitian ini bertujuan untuk melakukan analisis sentimen dan membangun model k
 | `stopwords.txt` | `Txt` | Berisi kata yang diabaikan dalam pemrosesan dan biasanya disimpan di dalam stop lists. |
 
 #### List Coding
-```http
+```
   Data Scraping, Understanding, dan Preparation
   Model Klasifikasi
   Deploy Model

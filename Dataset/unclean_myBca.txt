@@ -1,0 +1,8 @@
+myBca Application Review Dataset
+
+Data has been collected from Google Play Store and App Store using google_play_scraper and app_store_scraper respectively. The data is sort form the newest (2024) only.
+
+Source			: Either Google Play or App Store
+User_name		: The reviewer user name on either platform
+Review_description	: The content of the reviews
+Review_date		: Date of the review are make by the user
